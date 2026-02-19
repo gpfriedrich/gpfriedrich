@@ -1,6 +1,5 @@
 # 🧑🏻‍💻 Guilherme Friedrich
 
-**`Estudante de Engenharia de Software`**
 
 Estudante de Engenharia de Software com foco em desenvolvimento e aprendizado contínuo em tecnologia. Atualmente em transição para a área de programação, com conhecimentos em lógica de programação, estruturas de dados e programação orientada a objetos (POO), aplicados na resolução de problemas e na construção de soluções computacionais. Possuo experiência profissional em ambiente corporativo, desenvolvendo habilidades de trabalho em equipe, organização de processos e responsabilidade profissional, buscando evoluir tecnicamente e contribuir de forma prática no desenvolvimento de software.
 
